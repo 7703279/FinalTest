@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DADEntities-Web.config Connection String" description="DADEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=swin.database.windows.net;initial catalog=DAD;user id=DAD;password=#Carrie109;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\kim22\\Documents\\Swin_sql\\FinalChallenge\\FinalChallenge_DB\\FinalChallengeSQL\\APITest\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DADEntities']/@connectionString" />
+  </parameter>
+  <parameter name="DADEntities1-Web.config Connection String" description="DADEntities1 Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=swin.database.windows.net;initial catalog=DAD;user id=DAD;password=#Carrie109;multipleactiveresultsets=True;application name=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\kim22\\Documents\\Swin_sql\\FinalChallenge\\FinalChallenge_DB\\FinalChallengeSQL\\APITest\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DADEntities1']/@connectionString" />
+  </parameter>
+</parameters>

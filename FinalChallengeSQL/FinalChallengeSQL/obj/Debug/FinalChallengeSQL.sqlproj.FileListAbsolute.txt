@@ -1,0 +1,6 @@
+C:\Users\kim22\Documents\Swin_sql\FinalChallenge\FinalChallenge_DB\FinalChallengeSQL\FinalChallengeSQL\bin\Debug\FinalChallengeSQL.dacpac
+C:\Users\kim22\Documents\Swin_sql\FinalChallenge\FinalChallenge_DB\FinalChallengeSQL\FinalChallengeSQL\obj\Debug\FinalChallengeSQL.sqlprojAssemblyReference.cache
+C:\Users\kim22\Documents\Swin_sql\FinalChallenge\FinalChallenge_DB\FinalChallengeSQL\FinalChallengeSQL\obj\Debug\FinalChallengeSQL.dll
+C:\Users\kim22\Documents\Swin_sql\FinalChallenge\FinalChallenge_DB\FinalChallengeSQL\FinalChallengeSQL\obj\Debug\FinalChallengeSQL.pdb
+C:\Users\kim22\Documents\Swin_sql\FinalChallenge\FinalChallenge_DB\FinalChallengeSQL\FinalChallengeSQL\bin\Debug\FinalChallengeSQL.dll
+C:\Users\kim22\Documents\Swin_sql\FinalChallenge\FinalChallenge_DB\FinalChallengeSQL\FinalChallengeSQL\bin\Debug\FinalChallengeSQL.pdb
